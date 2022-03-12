@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdiTheZero/Search-Photos/static/css/main.f87e208f.css",
+    "main.js": "/AdiTheZero/Search-Photos/static/js/main.9f6297b0.js",
+    "index.html": "/AdiTheZero/Search-Photos/index.html",
+    "main.f87e208f.css.map": "/AdiTheZero/Search-Photos/static/css/main.f87e208f.css.map",
+    "main.9f6297b0.js.map": "/AdiTheZero/Search-Photos/static/js/main.9f6297b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f87e208f.css",
+    "static/js/main.9f6297b0.js"
+  ]
+}
